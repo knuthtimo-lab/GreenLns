@@ -1,0 +1,7 @@
+{
+  "name": "GreenLens",
+  "description": "Eine faire, datenschutzfreundliche Pflanzen-Identifikations-App für den DACH-Markt. Offline-First und ohne Abo-Zwang.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
